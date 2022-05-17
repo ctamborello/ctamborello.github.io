@@ -1,0 +1,16 @@
+==> 2022-05-11 14:12:56 <==
+# cmd: /home/ctamborello/miniconda3/bin/conda create -p ./env -c conda-forge nodejs
+# conda version: 4.11.0
++conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge
++conda-forge/linux-64::_openmp_mutex-4.5-2_gnu
++conda-forge/linux-64::ca-certificates-2021.10.8-ha878542_0
++conda-forge/linux-64::icu-70.1-h27087fc_0
++conda-forge/linux-64::libgcc-ng-11.2.0-h1d223b6_16
++conda-forge/linux-64::libgomp-11.2.0-h1d223b6_16
++conda-forge/linux-64::libstdcxx-ng-11.2.0-he4da1e4_16
++conda-forge/linux-64::libuv-1.43.0-h7f98852_0
++conda-forge/linux-64::libzlib-1.2.11-h166bdaf_1014
++conda-forge/linux-64::nodejs-17.9.0-h8839609_0
++conda-forge/linux-64::openssl-3.0.3-h166bdaf_0
++conda-forge/linux-64::zlib-1.2.11-h166bdaf_1014
+# update specs: ['nodejs']
