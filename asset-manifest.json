@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ctamborello/ctamborello.github.io.git/static/css/main.6f82c7ae.css",
+    "main.js": "/ctamborello/ctamborello.github.io.git/static/js/main.4c181f17.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ctamborello/ctamborello.github.io.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/blank.jpg": "/ctamborello/ctamborello.github.io.git/static/media/blank.9a6fb9400beb6928fa85.jpg",
+    "static/media/earth.jpg": "/ctamborello/ctamborello.github.io.git/static/media/earth.c34779932e353157ae6f.jpg",
+    "index.html": "/ctamborello/ctamborello.github.io.git/index.html",
+    "main.6f82c7ae.css.map": "/ctamborello/ctamborello.github.io.git/static/css/main.6f82c7ae.css.map",
+    "main.4c181f17.js.map": "/ctamborello/ctamborello.github.io.git/static/js/main.4c181f17.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ctamborello/ctamborello.github.io.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f82c7ae.css",
+    "static/js/main.4c181f17.js"
+  ]
+}
